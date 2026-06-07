@@ -1,5 +1,8 @@
 # AKA-TUSYO
 
+実行ファイル
+https://github.com/kikuchiryoto0108/AKA-TUSYO/releases/tag/exe
+
 プレイ動画
 https://www.youtube.com/watch?v=XtLTLUZTF_A
 
