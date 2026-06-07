@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - test1
+  - test2
+  - SubCamera
+  - SubCameraChild
+  - object
+  - Action
+  - OBJECT
+  - touch1
+  - touch2
+  - camera
+  - Button
+  - Reload
+  - Next
+  - touch3
+  - touch4
+  - NEXTSTAGE
+  - CLEAR
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - SubCamera
+  - CameraIcon
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: backGroundLayer
+    uniqueID: 1536041145
+    locked: 0
